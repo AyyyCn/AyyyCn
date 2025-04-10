@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 About Me
+## About Me
 
 I'm an aspiring game developer and AI enthusiast with a strong curiosity for how things work under the hood.  
 I enjoy building immersive 3D experiences, games, and occasionally reverse-engineering systems just for fun.
@@ -16,7 +16,7 @@ Currently studying software engineering at **INSAT** while working part-time and
 
 ---
 
-## ⚙️ What I enjoy building
+## What I enjoy building
 
 - 🕹️ 3D games and mechanics with Unity & Unreal Engine  
 - 🤖 AI tools, ML models & automation (Python, TensorFlow, Gurobi)  
@@ -26,7 +26,7 @@ Currently studying software engineering at **INSAT** while working part-time and
 
 ---
 
-## 🧠 Interactive 3D Portfolio  
+## Interactive 3D Portfolio  
 Explore my work in an immersive 3D world:  
 👉 [portfolio-ayyycns-projects.vercel.app](https://portfolio-ayyycns-projects.vercel.app)
 
