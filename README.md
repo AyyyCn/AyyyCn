@@ -8,8 +8,8 @@
 
 ## About Me
 
-I'm an aspiring game developer and AI enthusiast with a strong curiosity for how things work under the hood.  
-I enjoy building immersive 3D experiences, games, and occasionally reverse-engineering systems just for fun.
+I'm a game developer in the making and AI enthusiast with a strong curiosity for how things work under the hood.  
+I enjoy building immersive 3D experiences, games, and occasionally diving into some reverse-engineering.
 
 I like working both solo and in teams, and I bring strong initiative and leadership when it's needed.  
 Currently studying software engineering at **INSAT** while working part-time and freelancing.
