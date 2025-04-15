@@ -28,7 +28,7 @@ Currently studying software engineering at **INSAT** while working part-time and
 
 ## Interactive 3D Portfolio  
 Explore my work in an immersive 3D world:  
-👉 [portfolio-ayyycns-projects.vercel.app](https://portfolio-ayyycns-projects.vercel.app)
+👉 http://www.adam-ladhari.me/
 
 
 ---
