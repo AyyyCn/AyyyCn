@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Adam 👋</h1>
 
 <p align="center">
-   Software Engineering Student at <strong>INSAT</strong> · Game Dev & AI Enthusiast · Tool Maker
+   Software Engineering Student at <strong>INSAT</strong> · Game Dev & AI Enthusiast
 </p>
 
 ---
