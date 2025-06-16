@@ -19,7 +19,7 @@ Currently studying software engineering at **INSAT** while working part-time and
 ## What I enjoy building
 
 -  3D games and mechanics with Unity & Unreal Engine  
--  AI tools, ML models & automation (Python, TensorFlow, Gurobi)  
+-  AI tools, ML models & automation
 -  Full-stack apps using React, NestJS, Symfony, Spring Boot  
 -  Cheats, save editors, bots, weird tools that simplify life  
 
