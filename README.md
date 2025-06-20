@@ -35,6 +35,5 @@ Explore my work in an immersive 3D world:
 
 ## 📫 Reach Me  
 -  [LinkedIn](https://www.linkedin.com/in/adam-ladhari)  
--  [3D Portfolio](https://portfolio-ayyycns-projects.vercel.app)  
--  adamldr3@gmail.com  
+-  [Portfolio](https://www.adam-ladhari.me)  
 
